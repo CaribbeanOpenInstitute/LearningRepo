@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="text_view1">Json Test Activity!</string>
+    <string name="app_name">Jsontest</string>
+    <string name="app_version_info">Version 0.1.0\nCopyright © 2012\nAll Rights Reserved.</string>
+    <string name="version">v. 0.1.0</string>
+
+</resources>
